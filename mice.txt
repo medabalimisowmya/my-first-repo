@@ -1,5 +1,5 @@
-m mammal
+m mighty (change on line 1)
 o outside
-u USB
+u under (change on line 3)
 s small
-e eager
+e endive (change on line 5)
